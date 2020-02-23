@@ -7,7 +7,7 @@ This Repository contains the source code of NoWaste. Nowaste is a mobile applica
     NodeJS
     LowDB
 ```
-##Run
+## Run
 To Run this App:
 ```
 npm install
